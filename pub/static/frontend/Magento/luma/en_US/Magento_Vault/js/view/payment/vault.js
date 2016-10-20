@@ -1,0 +1,1 @@
+/opt/bitnami/apps/magento/htdocs/vendor/magento/module-vault/view/frontend/web/js/view/payment/vault.js

@@ -1,0 +1,1 @@
+/opt/bitnami/apps/magento/htdocs/vendor/magento/module-braintree/view/frontend/web/js/view/payment/braintree.js
